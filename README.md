@@ -13,7 +13,7 @@ Un script de python que puede generar contraseñas complejas y seguras de manera
 
 > Linux
 > 
-> ```git clone ```
+> ```git clone https://github.com/KaltHack/CryptoPass```
 > ```cd CryptoPass```
 > ```python3 -m pip install -r requirements.txt```
 > ```python3 cryptopass.py```
